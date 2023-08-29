@@ -1,2 +1,2 @@
 # backstage-test
-Test Repo for Backstage Development PortaL
+Repo for Backstage Development Portal
